@@ -1,0 +1,3 @@
+# angularText
+
+added demo readme
